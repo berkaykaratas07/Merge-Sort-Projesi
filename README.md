@@ -21,3 +21,5 @@
 ## Big-O gösterimini yazınız.
 
 O[nLogn]
+
+# https://app.patika.dev/pnax
